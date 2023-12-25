@@ -1,0 +1,47 @@
+ul {
+    list-style: none;
+    margin: 31px;
+    float: right; 
+}
+.menutr ul li {
+    float: left;
+    padding: 10px 17px;
+
+}
+.menutr ul li a {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.menugiua ul {
+    float: left;
+    padding-left: 6px;
+    margin-left: 0px;
+}
+.menugiua{
+    /* padding-top:20px; */
+    padding: 20px 0px;
+  }
+.menugiua ul li a {
+    color: black;
+}
+.sdt{
+    float:left;
+    margin: auto;
+    font-size: 15px;
+}
+
+button.sk {
+    
+margin-top: 40px;
+   padding-left: 90px;
+   padding-right: 90px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-bottom: 30px;
+  
+}
+
+.ppp{
+    margin-bottom: 0px;
+}
